@@ -1,1 +1,1 @@
-# PLINKO-PART-2
+Plinko Game
